@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="paleGreyBackground">#eeeeee</color>
+    <color name="whiteBackground">#ffffff</color>
+    <color name="borderColor">#000000</color>
+    <color name="receivedBackground">#dddddd</color>
+    <color name="receivedTextColor">#000000</color>
+    <color name="sentBackground">#000000</color>
+    <color name="sentTextColor">#ffffff</color>
+</resources>
